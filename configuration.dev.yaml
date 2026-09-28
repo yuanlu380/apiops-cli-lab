@@ -24,7 +24,7 @@
 #       value: "dev-api-key-value"
 #   - name: connection-string
 #     properties:
-#       value: "{#[DB_Connection_String]#}"
+#       value: "example-connection-string"
 #   - name: secret-from-keyvault
 #     properties:
 #       keyVault:
