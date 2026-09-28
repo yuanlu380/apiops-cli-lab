@@ -1,0 +1,37 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/apis/echo-api/operations/create-resource",
+  "type": "Microsoft.ApiManagement/service/apis/operations",
+  "name": "create-resource",
+  "properties": {
+    "displayName": "Create resource",
+    "method": "POST",
+    "urlTemplate": "/resource",
+    "templateParameters": [],
+    "description": "A demonstration of a POST call based on the echo backend above. The request body is expected to contain JSON-formatted data (see example below). A policy is used to automatically transform any request sent in JSON directly to XML. In a real-world scenario this could be used to enable modern clients to speak to a legacy backend.",
+    "request": {
+      "queryParameters": [],
+      "headers": [],
+      "representations": [
+        {
+          "contentType": "application/json",
+          "examples": {
+            "default": {
+              "value": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n}"
+            }
+          },
+          "generatedSample": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n}",
+          "sample": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n}"
+        }
+      ]
+    },
+    "responses": [
+      {
+        "statusCode": 200,
+        "representations": [],
+        "headers": []
+      }
+    ],
+    "policies": null,
+    "effectivePath": null
+  }
+}
