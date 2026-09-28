@@ -1,0 +1,21 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/apis/echo-api/operations/remove-resource",
+  "type": "Microsoft.ApiManagement/service/apis/operations",
+  "name": "remove-resource",
+  "properties": {
+    "displayName": "Remove resource",
+    "method": "DELETE",
+    "urlTemplate": "/resource",
+    "templateParameters": [],
+    "description": "A demonstration of a DELETE call which traditionally deletes the resource. It is based on the same \"echo\" backend as in all other operations so nothing is actually deleted.",
+    "responses": [
+      {
+        "statusCode": 200,
+        "representations": [],
+        "headers": []
+      }
+    ],
+    "policies": null,
+    "effectivePath": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/groups/administrators",
+  "type": "Microsoft.ApiManagement/service/groups",
+  "name": "administrators",
+  "properties": {
+    "displayName": "Administrators",
+    "description": "Administrators is a built-in group containing the admin email account provided at the time of service creation. Its membership is managed by the system.",
+    "builtIn": true,
+    "type": "system",
+    "externalId": null
+  }
+}

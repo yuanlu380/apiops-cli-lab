@@ -1,0 +1,21 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/apis/echo-api/operations/retrieve-header-only",
+  "type": "Microsoft.ApiManagement/service/apis/operations",
+  "name": "retrieve-header-only",
+  "properties": {
+    "displayName": "Retrieve header only",
+    "method": "HEAD",
+    "urlTemplate": "/resource",
+    "templateParameters": [],
+    "description": "The HEAD operation returns only headers. In this demonstration a policy is used to set additional headers when the response is returned and to enable JSONP.",
+    "responses": [
+      {
+        "statusCode": 200,
+        "representations": [],
+        "headers": []
+      }
+    ],
+    "policies": null,
+    "effectivePath": null
+  }
+}

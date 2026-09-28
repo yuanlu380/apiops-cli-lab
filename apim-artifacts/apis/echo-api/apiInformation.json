@@ -1,0 +1,35 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/apis/echo-api",
+  "type": "Microsoft.ApiManagement/service/apis",
+  "name": "echo-api",
+  "properties": {
+    "displayName": "Echo API",
+    "apiRevision": "1",
+    "description": null,
+    "subscriptionRequired": true,
+    "serviceUrl": "https://echo.playground.azure-api.net/api",
+    "backendId": null,
+    "path": "echo",
+    "protocols": [
+      "https"
+    ],
+    "mcpProperties": null,
+    "a2aProperties": null,
+    "isAgent": false,
+    "agent": null,
+    "jsonRpcProperties": null,
+    "authenticationSettings": {
+      "oAuth2": null,
+      "openid": null,
+      "oAuth2AuthenticationSettings": [],
+      "openidAuthenticationSettings": []
+    },
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key",
+      "bearer": null
+    },
+    "isCurrent": true,
+    "effectivePath": null
+  }
+}
