@@ -3,7 +3,7 @@
   "type": "Microsoft.ApiManagement/service/apis",
   "name": "echo-api",
   "properties": {
-    "displayName": "Echo API",
+    "displayName": "Echo API - APIOps Demo",
     "apiRevision": "1",
     "description": null,
     "subscriptionRequired": true,
