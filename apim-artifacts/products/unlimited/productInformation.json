@@ -1,0 +1,17 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/products/unlimited",
+  "type": "Microsoft.ApiManagement/service/products",
+  "name": "unlimited",
+  "properties": {
+    "displayName": "Unlimited",
+    "description": "Subscribers have completely unlimited access to the API. Administrator approval is required.",
+    "terms": null,
+    "subscriptionRequired": true,
+    "approvalRequired": true,
+    "subscriptionsLimit": 1,
+    "state": "published",
+    "groups": [],
+    "authenticationType": [],
+    "application": null
+  }
+}

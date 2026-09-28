@@ -1,0 +1,17 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/subscriptions/master",
+  "type": "Microsoft.ApiManagement/service/subscriptions",
+  "name": "master",
+  "properties": {
+    "scope": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/",
+    "displayName": "Built-in all-access subscription",
+    "state": "active",
+    "createdDate": "2026-09-28T01:40:42.513Z",
+    "startDate": null,
+    "expirationDate": null,
+    "endDate": null,
+    "notificationDate": null,
+    "stateComment": null,
+    "allowTracing": false
+  }
+}

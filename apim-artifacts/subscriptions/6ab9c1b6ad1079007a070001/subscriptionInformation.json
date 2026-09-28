@@ -1,0 +1,18 @@
+{
+  "id": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/subscriptions/6ab9c1b6ad1079007a070001",
+  "type": "Microsoft.ApiManagement/service/subscriptions",
+  "name": "6ab9c1b6ad1079007a070001",
+  "properties": {
+    "ownerId": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/users/1",
+    "scope": "/subscriptions/62910013-9757-43f8-a3b3-2e0143abd45b/resourceGroups/Default-ActivityLogAlerts/providers/Microsoft.ApiManagement/service/apiopstest380/products/starter",
+    "displayName": null,
+    "state": "active",
+    "createdDate": "2026-09-28T01:24:06.557Z",
+    "startDate": null,
+    "expirationDate": null,
+    "endDate": null,
+    "notificationDate": null,
+    "stateComment": null,
+    "allowTracing": false
+  }
+}
